@@ -1,0 +1,85 @@
+address,lat,lon,r80,r81,r82,r84
+W Dayton & N Orchard  (EB),43.070961,-89.4070827,1,0,0,0
+Langdon & N Park  (WB),43.075922,-89.4002726,1,0,1,0
+Langdon & N Lake  (EB),43.0757527,-89.3969574,0,1,0,0
+N Lake & W Johnson  (NB),43.0718513,-89.3973878,1,0,1,0
+Langdon & Wisconsin Ave  (EB),43.0731762,-89.3947147,0,1,0,0
+N Lake & Langdon  (NB),43.0756848,-89.3972433,1,0,1,0
+Observatory Dr & N Charter  (WB),43.0761222,-89.4056566,1,0,1,0
+W Dayton & N Mills  (EB),43.0709403,-89.4037114,1,0,0,0
+N Lake & W Johnson  (SB),43.0722611,-89.3975794,0,1,0,0
+W Dayton & N Park  (EB),43.0708869,-89.4011258,1,0,1,0
+N Broom & W Gorham  (NB),43.0741201,-89.3924058,0,1,0,0
+Langdon & N Henry  (EB),43.0768832,-89.392197,0,1,0,0
+Langdon & N Park  (EB),43.0757891,-89.4000248,0,1,0,0
+Regent & S Mills  (EB),43.0675994,-89.4037463,0,0,1,0
+N Breese Ter & Hoyt  (SB),43.0703969,-89.4140107,0,0,1,0
+W Gorham & N Henry  (WB),43.0753078,-89.3910973,0,1,0,0
+N Park & Spring  (NB),43.0691913,-89.4007643,0,0,1,0
+S Bassett & W Doty  (SB),43.0687295,-89.3889937,0,1,0,0
+N Bedford & W Mifflin  (SB),43.0697127,-89.3937668,0,1,0,0
+Regent & S Orchard  (EB),43.0676238,-89.4069296,0,0,1,0
+N Broom & W Dayton  (NB),43.0730673,-89.3910213,0,1,0,0
+Observatory Dr & Walnut  (EB),43.07645,-89.4240917,1,0,0,0
+Observatory Dr & Walnut  (WB),43.0768566,-89.4262429,1,0,0,0
+University Ave & Walnut  (EB),43.0722086,-89.4259289,0,0,1,0
+University Bay Dr & Picnic Point  (EB),43.0843294,-89.4290649,1,0,0,1
+University Bay Dr & Picnic Point  (WB),43.0842959,-89.428891,1,0,0,1
+Observatory & Liz Waters (WB),43.0766157,-89.4071531,0,0,1,0
+Observatory & Bascom (WB),43.075948,-89.4037002,1,0,1,0
+Wisconsin & W Gorham (SB),43.077515,-89.388055,0,1,0,0
+N Park & Regent (NB),43.0682573,-89.4007897,0,0,1,0
+S Broom & W Doty (NB),43.07013813,-89.38706027,0,1,0,0
+Linden & Henry (WB),43.075226,-89.4105276,1,0,0,0
+Babcock & Linden (SB),43.0753013,-89.4128772,1,0,0,0
+N Randall & Engineering (SB),43.0717927,-89.409253,1,0,0,0
+Linden & N Charter (EB),43.0749311,-89.4063509,1,0,0,0
+Linden & N Charter (WB),43.075199,-89.4075281,1,0,0,1
+Linden & Babcock (WB),43.0752462,-89.41249,1,0,0,1
+Regent & N Breese (EB),43.0677272,-89.4134925,0,0,1,0
+N Breese & University (SB),43.0730825,-89.4140148,0,0,1,0
+University & N Frances (WB),43.0732944,-89.3961954,0,1,0,0
+Linden & Henry (EB),43.0750607,-89.4102872,1,0,0,0
+University & N Lake (WB),43.0733293,-89.3980276,0,1,0,0
+N Charter & University (SB),43.0739899,-89.4063422,1,0,0,0
+S Bassett & W Washington (SB),43.0698735,-89.3904405,0,1,0,0
+E Gorham & N Butler (WB),43.08022267,-89.38412577,0,1,0,0
+N Lake & University (NB),43.0730546,-89.3973248,1,0,1,0
+N Park & State (NB),43.0745632,-89.4005244,0,1,0,0
+W Dayton & N Frances (EB),43.07076481,-89.39550555,0,1,0,0
+W Gorham & Wisconsin (WB),43.07738043,-89.38818219,0,1,0,0
+N Broom & W Washington (NB),43.07162397,-89.389045,0,1,0,0
+W Washington & S Bedford (EB),43.0689541,-89.3920906,0,1,0,0
+E Gorham & N Blair (WB),43.0811863,-89.38275827,0,1,0,0
+E Johnson & N Butler (EB),43.0790293,-89.383684,0,1,0,0
+N Blair & E Johnson (NB),43.08094197,-89.38169627,0,1,0,0
+Lake Mendota & Lot R (SB),43.0892748,-89.4337293,1,0,0,1
+Eagle Heights & Lot E (WB),43.0862538,-89.4349325,1,0,0,1
+Marsh & Highland (EB),43.07882123,-89.4297857,1,0,0,0
+Eagle Heights & Lot F (WB),43.08626364,-89.43667173,1,0,0,1
+University Bay & Lot 60 (NB),43.08025897,-89.42805627,1,0,0,0
+Lake Mendota & Eagle Heights (SB),43.0864293,-89.433772,1,0,0,1
+Lake Mendota & Lot N (NB),43.08915014,-89.438057,1,0,0,1
+Lake Mendota & University Bay (NB),43.08425981,-89.433487,1,0,0,1
+Lake Mendota & University Bay (SB),43.08438597,-89.43377327,1,0,0,1
+University Bay & Lot 76 (SB),43.08088597,-89.42834027,1,0,0,0
+Walnut & Observatory (NB),43.07704497,-89.424906,1,0,0,0
+Eagle Heights & Lot M (WB),43.08666797,-89.441612,1,0,0,1
+Lake Mendota & Lot P (NB),43.08978397,-89.43699627,1,0,0,1
+Lake Mendota & Lot Q (NB),43.09050881,-89.435587,1,0,0,1
+Marsh & Lot 76 (WB),43.07900597,-89.429203,1,0,0,0
+Eagle Heights & Shelter (WB),43.08632014,-89.43857627,1,0,0,1
+Observatory & Highland (EB),43.07697297,-89.42848827,1,0,0,0
+Walnut & Observatory (SB),43.07614627,-89.42524417,0,0,1,0
+Highland & Observatory (NB),43.0775145,-89.4289345,1,0,0,0
+Observatory & Babcock (EB),43.07631113,-89.41287127,1,0,0,0
+Observatory & Elm (EB),43.0764104,-89.4162239,1,0,0,0
+Marsh & Lot 60 (WB),43.0789683,-89.4267701,1,0,0,0
+Observatory & Colwood (EB),43.07638197,-89.420425,1,0,0,1
+Highland & Marsh (EB),43.0783185,-89.4301269,1,0,0,1
+Observatory & Colwood (WB),43.07661507,-89.42064087,1,0,1,1
+Walnut & G Pinchot (SB),43.07430613,-89.42524127,0,0,1,0
+University & Forest (EB),43.0727224,-89.4213846,0,0,1,0
+University & Princeton (EB),43.0732386,-89.4174881,0,0,1,0
+Observatory & Elm (WB),43.07656097,-89.416289,1,0,1,0
+Observatory & Babcock (WB),43.0765308,-89.4132571,1,0,1,0
